@@ -10,7 +10,7 @@
 
 ### Diagrama UML do projeto
 
-![App Screenshot]([https://imgur.com/a/W8CGUyZ](https://github.com/GuuiBenny92/desafio-modelando-iphone-uml/blob/main/assets/diagram.png)
+![App Screenshot]([https://imgur.com/a/W8CGUyZ](https://github.com/GuuiBenny92/desafio-modelando-iphone-uml/blob/main/assets/diagram.png])
 *Modelo Criado no draw.io*
 
 ### Implementando classe e interface 
