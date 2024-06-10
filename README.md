@@ -10,7 +10,7 @@
 
 ### Diagrama UML do projeto
 
-<img title="Diagrama" src="assets/diagrama.png" alt="" width="800px"><br>
+![App Screenshot]([https://imgur.com/a/W8CGUyZ](https://github.com/GuuiBenny92/desafio-modelando-iphone-uml/blob/main/assets/diagram.png)
 *Modelo Criado no draw.io*
 
 ### Implementando classe e interface 
